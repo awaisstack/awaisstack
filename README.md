@@ -482,7 +482,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
     <td width="50%" align="center" valign="top">
       <h4>🏆 Buildables Data Engineering Fellowship (Top Fellow)</h4>
       <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8" target="_blank">
-        <img src="awaisstack/Certificates/Data%20Engineering%20Fellowship%20buildables%20Completion%20certifcate.jfif" width="380" alt="Buildables Fellowship Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+        <img src="awaisstack/Certificates/Data%20Engineering%20Fellowship.png" width="380" alt="Buildables Data Engineering Fellowship Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
       <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8">
         <img src="https://img.shields.io/badge/Verify-GiveMyCertificate-FF6F00?style=for-the-badge&logo=certificate&logoColor=white" alt="Verify Buildables" />
