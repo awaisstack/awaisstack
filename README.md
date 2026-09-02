@@ -60,7 +60,7 @@ new Developer({
 🚀 About Me:
 A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Science in Computer Science from NUML (GPA: 3.59/4.00).
 • 💡 IGNITE National R&D Awardee: Secured competitive Ministry of IT and Telecom funding for Zakat Blockchain System (1,000+ applicants).
-• 🏆 Hackathon Champion: Placed 6th nationally in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) and built ImpactScope for NASA Space Apps Challenge.
+• 🏆 Hackathon Champion: Placed 6th nationally in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) and built ImpactScope for NASA Space Apps Challenge 2025.
 • 🎓 Global Educator: Stanford Code in Place Section Leader, delivered 40+ hours of advanced SQL instruction, and organized 4 campus tech conferences as a Beta Microsoft Learn Student Ambassador.
 • ⚡ Proven Builder: Deployed production ETL pipelines with MinIO, PostgreSQL, and Airflow, delivered 400+ client projects with a 5.0★ rating.
 ```
@@ -96,6 +96,48 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
   </a>
   <a href="https://www.instagram.com/mrenlightener/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
+</p>
+
+</div>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# 🏅 Official Digital Badges & Accreditations 🎖️
+
+<div align="center">
+
+<p align="center">
+  <a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile" target="_blank">
+    <img src="awaisstack/Badges/Github%20Foundations%20Badge.png" width="125" alt="GitHub Foundations Badge" title="GitHub Foundations Certified" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+  <a href="https://credentials.databricks.com/d64eb5b4-d4e8-48af-bb33-064376c28331#acc.MlvXdIQ4" target="_blank">
+    <img src="awaisstack/Badges/Databricks%20Lakehouse%20Fundamentals.png" width="125" alt="Databricks Lakehouse Fundamentals" title="Databricks Lakehouse Fundamentals" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+  <a href="https://www.datacamp.com/certificate/DEA0013781242095" target="_blank">
+    <img src="awaisstack/Badges/DE_Associate_-_badge_with_outline.png" width="125" alt="DataCamp Data Engineer Associate" title="DataCamp Certified Data Engineer Associate" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+  <a href="https://www.datacamp.com/certificate/SQA0010604303256" target="_blank">
+    <img src="awaisstack/Badges/SQL_Associate_-_badge_with_outline.png" width="125" alt="DataCamp SQL Associate" title="DataCamp Certified SQL Associate" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+  <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
+    <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="125" alt="Stanford Code in Place Section Leader" title="Stanford University Section Leader" style="margin: 10px; transition: transform 0.3s;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8684/23662EAF6967EFAF?sharingId=D9AA7C71B1D56C32" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst%20Associate%20(PL--300)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="PL-300" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8966/FF7EF73DA72314?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-Azure%20Data%20Fundamentals%20(DP--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DP-900" />
+  </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-9448/16470953F2E56510?sharingId" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900" />
+  </a>
+  <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8" target="_blank">
+    <img src="https://img.shields.io/badge/Buildables-Data%20Engineering%20Fellowship-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Buildables Fellowship" />
   </a>
 </p>
 
@@ -199,13 +241,13 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 ### 🌌 💥 NASA Space Apps Challenge 2025: ImpactScope
 <p align="center">
   <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness" target="_blank">
-    <img src="NASA_Space_Apps_Challenge.jpg" width="820" alt="NASA Space Apps Challenge 2025 - ImpactScope" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+    <img src="awaisstack/Hackathon%20Thumbnails/NASA.png" width="820" alt="NASA Space Apps Challenge 2025 - ImpactScope" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
   </a>
 </p>
 <p align="center">
   <b>🌍 ImpactScope: Real-Time Asteroid Impact Simulation Engine</b><br/>
-  Built in 48 hours using NASA's Near-Earth Object (NeoWs) API, Python physics calculation models, Flask backend, and 3D Earth rendering in Three.js & Three-Globe.<br/>
-  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://lnkd.in/p/dfsVniYk"><b>[LinkedIn Post & Demo]</b></a>
+  Built in 48 hours using NASA's Near-Earth Object (NeoWs) API, Python physics calculation models, Flask backend, and dynamic 3D Earth rendering in Three.js & Three-Globe.<br/>
+  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://lnkd.in/p/dfsVniYk"><b>[LinkedIn Post & Demo Video]</b></a>
 </p>
 
 </div>
@@ -245,92 +287,151 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 <!--x-axis divider-->
 <img src="horizontal-divider-gradient.gif" width="100%" />
 
-# 🏆 Professional Certifications & Verified Badges 🎖️
+# 📜 Verified Certifications & Honors Gallery 🏆
 
 <div align="center">
 
+### 🎓 Professional Certifications & Accreditations
+
 <table width="100%">
-  <thead>
-    <tr>
-      <th align="center">Badge</th>
-      <th align="left">Certification Name</th>
-      <th align="left">Issuing Organization</th>
-      <th align="center">Category</th>
-      <th align="center">Verification</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><img src="awaisstack/Badges/Github%20Foundations%20Badge.png" width="70" alt="GitHub Foundations" /></td>
-      <td><b>GitHub Foundations</b></td>
-      <td>GitHub / Credly</td>
-      <td align="center">DevOps & Automation</td>
-      <td align="center"><a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile"><img src="https://img.shields.io/badge/Verify-Credly-2088FF?style=for-the-badge&logo=credly&logoColor=white" alt="Verify GitHub Foundations" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="awaisstack/Badges/Databricks%20Lakehouse%20Fundamentals.png" width="70" alt="Databricks Lakehouse" /></td>
-      <td><b>Lakehouse Fundamentals</b></td>
-      <td>Databricks Academy</td>
-      <td align="center">Big Data & Lakehouse</td>
-      <td align="center"><a href="https://credentials.databricks.com/d64eb5b4-d4e8-48af-bb33-064376c28331#acc.MlvXdIQ4"><img src="https://img.shields.io/badge/Verify-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Verify Databricks" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="awaisstack/Badges/DE_Associate_-_badge_with_outline.png" width="70" alt="DataCamp Data Engineer" /></td>
-      <td><b>Data Engineer Associate</b></td>
-      <td>DataCamp (DEA0013781242095)</td>
-      <td align="center">ETL & Data Engineering</td>
-      <td align="center"><a href="https://www.datacamp.com/certificate/DEA0013781242095"><img src="https://img.shields.io/badge/Verify-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Verify DataCamp DE" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="awaisstack/Badges/SQL_Associate_-_badge_with_outline.png" width="70" alt="DataCamp SQL Associate" /></td>
-      <td><b>SQL Associate</b></td>
-      <td>DataCamp (SQA0010604303256)</td>
-      <td align="center">SQL & Query Optimization</td>
-      <td align="center"><a href="https://www.datacamp.com/certificate/SQA0010604303256"><img src="https://img.shields.io/badge/Verify-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Verify DataCamp SQL" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="70" alt="Stanford Section Leader" /></td>
-      <td><b>Code in Place Section Leader</b></td>
-      <td>Stanford University</td>
-      <td align="center">Leadership & Python Mentorship</td>
-      <td align="center"><a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U"><img src="https://img.shields.io/badge/Verify-Stanford-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Verify Stanford" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Microsoft-PL--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="70" alt="Microsoft PL-300" /></td>
-      <td><b>Power BI Data Analyst Associate (PL-300)</b></td>
-      <td>Microsoft Certified</td>
-      <td align="center">Business Intelligence & DAX</td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8684/23662EAF6967EFAF?sharingId=D9AA7C71B1D56C32"><img src="https://img.shields.io/badge/Verify-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify PL-300" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="70" alt="Microsoft DP-900" /></td>
-      <td><b>Azure Data Fundamentals (DP-900)</b></td>
-      <td>Microsoft Certified</td>
-      <td align="center">Cloud Databases & Analytics</td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8966/FF7EF73DA72314?sharingId"><img src="https://img.shields.io/badge/Verify-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify DP-900" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="70" alt="Microsoft AZ-900" /></td>
-      <td><b>Azure Fundamentals (AZ-900)</b></td>
-      <td>Microsoft Certified</td>
-      <td align="center">Cloud Infrastructure & Security</td>
-      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-9448/16470953F2E56510?sharingId"><img src="https://img.shields.io/badge/Verify-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify AZ-900" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Buildables-Fellowship-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" width="70" alt="Buildables Fellowship" /></td>
-      <td><b>Data Engineering Fellowship (3 Months)</b></td>
-      <td>Buildables</td>
-      <td align="center">Production ETL Pipelines</td>
-      <td align="center"><a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8"><img src="https://img.shields.io/badge/Verify-Certificate-FF6F00?style=for-the-badge&logo=certificate&logoColor=white" alt="Verify Buildables" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" width="70" alt="Harvard CS50x" /></td>
-      <td><b>3-Time CS50x Puzzle Day Winner (9/9 Score)</b></td>
-      <td>Harvard University (2024, 2025, 2026)</td>
-      <td align="center">Algorithmic Problem Solving</td>
-      <td align="center"><img src="https://img.shields.io/badge/Status-Perfect%20Score%20%E2%9C%85-brightgreen?style=for-the-badge" alt="Perfect Score" /></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Microsoft Power BI Data Analyst (PL-300)</h4>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8684/23662EAF6967EFAF?sharingId=D9AA7C71B1D56C32" target="_blank">
+        <img src="awaisstack/Professional%20Certifications/PL%20300.jfif" width="380" alt="PL 300 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8684/23662EAF6967EFAF?sharingId=D9AA7C71B1D56C32">
+        <img src="https://img.shields.io/badge/Verify-Microsoft%20PL--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify PL-300" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Microsoft Azure Data Fundamentals (DP-900)</h4>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8966/FF7EF73DA72314?sharingId" target="_blank">
+        <img src="awaisstack/Professional%20Certifications/DP%20900.jfif" width="380" alt="DP 900 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8966/FF7EF73DA72314?sharingId">
+        <img src="https://img.shields.io/badge/Verify-Microsoft%20DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify DP-900" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Microsoft Azure Fundamentals (AZ-900)</h4>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-9448/16470953F2E56510?sharingId" target="_blank">
+        <img src="awaisstack/Professional%20Certifications/AZ%20900.jfif" width="380" alt="AZ 900 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-9448/16470953F2E56510?sharingId">
+        <img src="https://img.shields.io/badge/Verify-Microsoft%20AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify AZ-900" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>GitHub Foundations Certified</h4>
+      <a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile" target="_blank">
+        <img src="awaisstack/Professional%20Certifications/Github%20Foundations%20Certificate.jfif" width="380" alt="GitHub Foundations Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile">
+        <img src="https://img.shields.io/badge/Verify-Credly%20Badge-2088FF?style=for-the-badge&logo=credly&logoColor=white" alt="Verify GitHub Foundations" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>DataCamp Data Engineer Associate</h4>
+      <a href="https://www.datacamp.com/certificate/DEA0013781242095" target="_blank">
+        <img src="awaisstack/Professional%20Certifications/Data%20Engineer%20Associate%20Certificate.png" width="380" alt="DataCamp Data Engineer Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://www.datacamp.com/certificate/DEA0013781242095">
+        <img src="https://img.shields.io/badge/Verify-DataCamp%20DE-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Verify DataCamp DE" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>DataCamp SQL Associate</h4>
+      <a href="https://www.datacamp.com/certificate/SQA0010604303256" target="_blank">
+        <img src="awaisstack/Professional%20Certifications/SQL%20Associate.png" width="380" alt="DataCamp SQL Associate Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://www.datacamp.com/certificate/SQA0010604303256">
+        <img src="https://img.shields.io/badge/Verify-DataCamp%20SQL-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Verify DataCamp SQL" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Databricks Lakehouse Fundamentals</h4>
+      <a href="https://credentials.databricks.com/d64eb5b4-d4e8-48af-bb33-064376c28331#acc.MlvXdIQ4" target="_blank">
+        <img src="awaisstack/Professional%20Certifications/Databricks%20Lakehouse%20Fundamentals.jfif" width="380" alt="Databricks Lakehouse Fundamentals" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://credentials.databricks.com/d64eb5b4-d4e8-48af-bb33-064376c28331#acc.MlvXdIQ4">
+        <img src="https://img.shields.io/badge/Verify-Databricks%20Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Verify Databricks" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Stanford University Code in Place Section Leader</h4>
+      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
+        <img src="awaisstack/Certificates/Stanford%20Code%20in%20Place%20SectionLeader.png" width="380" alt="Stanford Section Leader Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U">
+        <img src="https://img.shields.io/badge/Verify-Stanford%20Credential-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Verify Stanford" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>Buildables Data Engineering Fellowship</h4>
+      <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8" target="_blank">
+        <img src="awaisstack/Certificates/Data%20Engineering%20Fellowship%20buildables%20Completion%20certifcate.jfif" width="380" alt="Buildables Fellowship Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8">
+        <img src="https://img.shields.io/badge/Verify-GiveMyCertificate-FF6F00?style=for-the-badge&logo=certificate&logoColor=white" alt="Verify Buildables" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>Harvard CS50x Puzzle Day Winner (2024 & 2025)</h4>
+      <p align="center">
+        <img src="awaisstack/Certificates/Harvard%20CS50X%202024.jfif" width="185" alt="Harvard CS50x 2024" style="border-radius: 6px;" />
+        <img src="awaisstack/Certificates/Harvard%20CS50X%202025.jfif" width="185" alt="Harvard CS50x 2025" style="border-radius: 6px;" />
+      </p>
+      <img src="https://img.shields.io/badge/Harvard%20CS50x-Perfect%209%2F9%20Score-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🌟 Leadership, National Grants & Community Certificates
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>💡 IGNITE National R&D Funding Selection (MoITT)</h4>
+      <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv" target="_blank">
+        <img src="awaisstack/Final%20Year%20Project%20%E2%80%93%20Zakat%20Blockchain%20System%20has%20been%20selected%20for%20funding%20picture%20of%20selection.jfif" width="380" alt="IGNITE Funding Selection" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv">
+        <img src="https://img.shields.io/badge/Read-Funding%20Announcement-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="IGNITE Announcement" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🌟 Microsoft Learn Student Ambassador (Beta Promotion)</h4>
+      <img src="awaisstack/Microsoft%20Student%20Ambassador%20I%20was%20promoted%20to%20Beta%2C%20Beta%20Microsoft%20student%20ambassador%20certificate.jfif" width="380" alt="Beta MLSA Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" /><br/><br/>
+      <img src="https://img.shields.io/badge/Microsoft-Beta%20Ambassador%20Promotion-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Beta MLSA" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🏥 MedoConnect Social Media Lead Internship</h4>
+      <a href="https://www.linkedin.com/posts/awaisstack_digitalmarketing-medoconnect-telehealth-activity-7095713669413580800-KrZJ" target="_blank">
+        <img src="awaisstack/Medoconnect%20Social%20Media%20manager%20crtificate.jfif" width="380" alt="MedoConnect Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://www.linkedin.com/posts/awaisstack_digitalmarketing-medoconnect-telehealth-activity-7095713669413580800-KrZJ">
+        <img src="https://img.shields.io/badge/Read-Completion%20Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MedoConnect Post" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🌐 IEEE Membership Certificate</h4>
+      <img src="awaisstack/IEEE%20Membership%20Certificate.jfif" width="380" alt="IEEE Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" /><br/><br/>
+      <img src="https://img.shields.io/badge/IEEE-Official%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Member" />
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -406,13 +507,15 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 <!--x-axis divider-->
 <img src="horizontal-divider-gradient.gif" width="100%" />
 
-# 🎓 Teaching, Leadership & Community Impact 🤝
+# 🎓 Teaching, Leadership & Conference Keynotes 🤝
 
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
       <h4>🌲 Stanford University</h4>
-      <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="90" alt="Stanford Code in Place" /><br/>
+      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U">
+        <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="90" alt="Stanford Code in Place" />
+      </a><br/>
       <b>Section Leader (Code in Place)</b><br/>
       Instructed global student cohorts in core Python logic, control structures, and computational thinking.
       <br/><br/>
@@ -446,6 +549,22 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### 🎙️ Live Conference Sessions as Beta MLSA
+
+<p align="center">
+  <img src="awaisstack/Screenshot%20of%20me%20teaching%20Microsoft%20Azure%20Synapse%20Analytics%20For%20data%20warehousing%20as%20a%20Beta%20MLSA.jfif" width="410" alt="Teaching Azure Synapse Analytics" style="border-radius: 8px; margin: 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+  <img src="awaisstack/Screenshot%20of%20me%20teaching%20Roadmap%20to%20Azure%20Cloud%20Computing.jfif" width="410" alt="Teaching Roadmap to Azure Cloud Computing" style="border-radius: 8px; margin: 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+</p>
+<p align="center">
+  <i>Delivering live training on Azure Synapse Analytics for Data Warehousing & Cloud Computing Architecture.</i>
+</p>
+
+</div>
 
 <!--x-axis divider-->
 <img src="horizontal-divider-gradient.gif" width="100%" />
