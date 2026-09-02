@@ -400,11 +400,9 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
     </td>
     <td width="50%" align="center" valign="top">
       <h4>🏛️ Harvard CS50x Puzzle Day Winner (2024 & 2025)</h4>
-      <p align="center">
-        <img src="awaisstack/Certificates/Harvard%20CS50X%202024.jfif" width="185" alt="Harvard CS50x 2024" style="border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
-        <img src="awaisstack/Certificates/Harvard%20CS50X%202025.jfif" width="185" alt="Harvard CS50x 2025" style="border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
-      </p>
-      <img src="https://img.shields.io/badge/Harvard%20CS50x-Perfect%209%2F9%20Score-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x" />
+      <img src="awaisstack/Certificates/Harvard%20CS50X%202025.jfif" width="380" alt="Harvard CS50x 2025 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); margin-bottom: 10px;" /><br/>
+      <img src="awaisstack/Certificates/Harvard%20CS50X%202024.jfif" width="380" alt="Harvard CS50x 2024 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" /><br/><br/>
+      <img src="https://img.shields.io/badge/Harvard%20CS50x-Perfect%209%2F9%20Score%20(3x%20Winner)-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x" />
     </td>
   </tr>
   <!-- Row 2: Microsoft PL-300 & DP-900 -->
