@@ -1,0 +1,499 @@
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20,25&text=Muhammad%20Awais%20%E2%9A%A1&fontSize=42&fontAlignY=38&desc=Data%20Engineer%20%7C%20Multi-Agent%20AI%20%7C%20Cloud%20%26%20Blockchain%20Architect&descAlignY=62&descSize=18&height=150&animation=twinkling&section=header" width="100%" />
+</h3>
+
+<h3 align="center">
+  <a href="https://github.com/awaisstack">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=awaisstack&data=followers,repositories,stars,commits&theme=nautilus" />
+  </a>
+  <br/><br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Data+Engineer+%26+ETL+Pipeline+Architect+%F0%9F%93%8A;Multi-Agent+AI+%26+LLM+Systems+Developer+%F0%9F%A4%96;Stanford+Code+in+Place+Section+Leader+%F0%9F%8E%93;Microsoft+Beta+Student+Ambassador+%F0%9F%8C%9F;Decentralized+Web3+%26+Solidity+Engineer+%E2%9B%93%EF%B8%8F;133+WPM+Speed+Typist+%E2%9A%A1" />
+  </a>
+</h3>
+
+<div align="center">
+
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+<p align="center">
+  <a href="https://www.fiverr.com/freelancers/awaisstack" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-Top%20Rated%20Seller%20(400%2B%20Projects)-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Top Rated Seller" />
+  </a>
+  <img src="https://img.shields.io/badge/IELTS-Academic%20Band%208.0-002F6C?style=for-the-badge&logo=cambridge&logoColor=white" alt="IELTS Band 8.0" />
+  <a href="https://www.linkedin.com/in/awaisstack/recent-activity/images/" target="_blank">
+    <img src="https://img.shields.io/badge/Typing%20Speed-133%20WPM%20(Monkeytype)-FFB703?style=for-the-badge&logo=monkeytype&logoColor=black" alt="133 WPM Typing Speed" />
+  </a>
+  <img src="https://img.shields.io/badge/Harvard%20CS50x-3x%20Winner%20(9%2F9)-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x 3x Winner" />
+  <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv" target="_blank">
+    <img src="https://img.shields.io/badge/IGNITE%20MoITT-National%20Funding%20Awardee-008080?style=for-the-badge&logo=ethereum&logoColor=white" alt="IGNITE MoITT Awardee" />
+  </a>
+</p>
+
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+</div>
+
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" align="right" width="380" />
+
+```js
+"use creativity";
+import { Developer } from "Pakistan";
+
+new Developer({
+  name: "Muhammad Awais",
+  role: "Data Engineer & AI / Cloud Solutions Builder",
+  education: "BS Computer Science @ NUML (GPA: 3.59/4.00)",
+  email: "awaisstack@gmail.com",
+  github: "https://github.com/awaisstack",
+  passions: [
+    "Scalable ETL Pipelines", 
+    "Multi-Agent Swarm Architectures", 
+    "Azure Databricks & Lakehouse", 
+    "Decentralized Web3 Applications"
+  ],
+  currentMission: "Engineering Autonomous Agentic Systems & Big Data Workflows 🚀"
+}).introduce();
+```
+
+```cmd
+🚀 About Me:
+A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Science in Computer Science from NUML (GPA: 3.59/4.00).
+• 💡 IGNITE National R&D Awardee: Secured competitive Ministry of IT and Telecom funding for Zakat Blockchain System (1,000+ applicants).
+• 🏆 Hackathon Champion: Placed 6th nationally in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) and built ImpactScope for NASA Space Apps Challenge.
+• 🎓 Global Educator: Stanford Code in Place Section Leader, delivered 40+ hours of advanced SQL instruction, and organized 4 campus tech conferences as a Beta Microsoft Learn Student Ambassador.
+• ⚡ Proven Builder: Deployed production ETL pipelines with MinIO, PostgreSQL, and Airflow, delivered 400+ client projects with a 5.0★ rating.
+```
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+<div align="center">
+
+# 🌐 Let's Connect and Collaborate! 💬
+
+<p align="center">
+  <a href="https://github.com/awaisstack" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/awaisstack/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:awaisstack@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://wa.me/923105396340" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://discordapp.com/users/awaisblockchain" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/@MrEnlightenerYT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/MrEnlightener/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/mrenlightener/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
+  </a>
+</p>
+
+</div>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# 🛠️ Technical Skill Set
+
+<table width="100%">
+  <tr>
+    <th align="center">Data Engineering & Cloud</th>
+    <th align="center">Databases & Querying</th>
+    <th align="center">Programming Languages</th>
+    <th align="center">AI & Autonomous Agents</th>
+    <th align="center">Frameworks & Libraries</th>
+    <th align="center">Tools & DevOps</th>
+  </tr>
+  <tr>
+    <!-- Data Engineering & Cloud -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="35" height="35"/><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="35" height="35"/><br/>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white" alt="Airflow" /><br/>
+      <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=Databricks&logoColor=white" alt="Databricks" /><br/>
+      <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Synapse" /><br/>
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="ADF" /><br/>
+      <img src="https://img.shields.io/badge/MinIO%20S3-C72C48?style=flat&logo=MinIO&logoColor=white" alt="MinIO" />
+    </td>
+    <!-- Databases & Querying -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height="35"/><br/><br/>
+      <img src="https://img.shields.io/badge/SQL%20(Advanced)-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQL" /><br/>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" alt="Snowflake" /><br/>
+      <img src="https://img.shields.io/badge/Azure%20Data%20Lake%20Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="ADLS Gen2" />
+    </td>
+    <!-- Programming Languages -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="35" height="35"/><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="35" height="35"/><br/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" /><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML5" width="35" height="35"/><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS3" width="35" height="35"/>
+    </td>
+    <!-- AI & Autonomous Agents -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/Multi--Agent%20Swarm-6C5CE7?style=flat&logo=openai&logoColor=white" alt="Multi-Agent AI" /><br/>
+      <img src="https://img.shields.io/badge/Generative%20AI-00A67E?style=flat&logo=openai&logoColor=white" alt="Generative AI" /><br/>
+      <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=flat&logo=target&logoColor=white" alt="Prompt Engineering" /><br/>
+      <img src="https://img.shields.io/badge/Smart%20Contracts-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts" />
+    </td>
+    <!-- Frameworks & Libraries -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="35" height="35"/><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="35" height="35"/><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="35" height="35"/><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind" width="35" height="35"/><br/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /><br/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+    </td>
+    <!-- Tools & DevOps -->
+    <td align="center">
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black" alt="Power BI" /><br/>
+      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="35" height="35"/><br/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" /><br/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" /><br/>
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" /><br/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter" /><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+    </td>
+  </tr>
+</table>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# 📈 GitHub Analytics & Activity 📊
+
+<p align="center">
+  <a href="https://github.com/awaisstack">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=awaisstack&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=awaisstack&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/awaisstack"> 
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=awaisstack&theme=algolia&hide_border=true" /> 
+  </a>  
+</p>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# 🥇 Completed International Hackathons & Competitions
+
+<div align="center">
+
+### 🌌 💥 NASA Space Apps Challenge 2025: ImpactScope
+<p align="center">
+  <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness" target="_blank">
+    <img src="NASA_Space_Apps_Challenge.jpg" width="820" alt="NASA Space Apps Challenge 2025 - ImpactScope" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  </a>
+</p>
+<p align="center">
+  <b>🌍 ImpactScope: Real-Time Asteroid Impact Simulation Engine</b><br/>
+  Built in 48 hours using NASA's Near-Earth Object (NeoWs) API, Python physics calculation models, Flask backend, and 3D Earth rendering in Three.js & Three-Globe.<br/>
+  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://lnkd.in/p/dfsVniYk"><b>[LinkedIn Post & Demo]</b></a>
+</p>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://lablab.ai/ai-hackathons/deriv-ai-talent-sprint/enlighteners/deriv-p2p-sentinel-ai-fraud-detection-swarm" target="_blank">
+    <img src="awaisstack/Hackathon%20Thumbnails/Deriv%20AI%20Talent%20Sprint.avif" width="380" alt="Deriv P2P Sentinel AI" style="border-radius: 8px; margin: 6px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/ai-hackathons/agentic-commerce-on-arc/enlighteners/arcwork-the-economic-os" target="_blank">
+    <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20Commerce%20of%20Arc.avif" width="380" alt="ArcWork: The Economic OS" style="border-radius: 8px; margin: 6px;" />
+  </a>
+  <br/>
+  <a href="https://lablab.ai/ai-hackathons/qubic-hack-the-future/enlighteners/aigarth-datalabel-feeless-ai-data-market" target="_blank">
+    <img src="awaisstack/Hackathon%20Thumbnails/Qubic%20-%20Hack%20the%20Future.avif" width="380" alt="Aigarth DataLabel" style="border-radius: 8px; margin: 6px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker" target="_blank">
+    <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20AI%20Hackathon%20with%20IBM%20watsonx%20Orchestrate.avif" width="380" alt="BlockchainSeeker" style="border-radius: 8px; margin: 6px;" />
+  </a>
+  <br/>
+  <a href="https://lablab.ai/ai-hackathons/internet-of-agents/mr-enlightener/coral-cfo-autonomous-subscription-audit-agent" target="_blank">
+    <img src="awaisstack/Hackathon%20Thumbnails/Internet%20of%20Agents.avif" width="380" alt="Coral CFO" style="border-radius: 8px; margin: 6px;" />
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://devpost.com/software/datafyno" target="_blank">
+    <img src="awaisstack/Hackathon%20Thumbnails/Data%20Fyno.jpg" width="380" alt="Data Fyno" style="border-radius: 8px; margin: 6px;" />
+  </a>
+  <br/>
+  <a href="https://devpost.com/software/algoquest-c9g8l6" target="_blank">
+    <img src="awaisstack/Hackathon%20Thumbnails/AlgoQuest.jpg" width="380" alt="AlgoQuest" style="border-radius: 8px; margin: 6px;" />
+  </a>
+</p>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# 🏆 Professional Certifications & Verified Badges 🎖️
+
+<div align="center">
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Badge</th>
+      <th align="left">Certification Name</th>
+      <th align="left">Issuing Organization</th>
+      <th align="center">Category</th>
+      <th align="center">Verification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="awaisstack/Badges/Github%20Foundations%20Badge.png" width="70" alt="GitHub Foundations" /></td>
+      <td><b>GitHub Foundations</b></td>
+      <td>GitHub / Credly</td>
+      <td align="center">DevOps & Automation</td>
+      <td align="center"><a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile"><img src="https://img.shields.io/badge/Verify-Credly-2088FF?style=for-the-badge&logo=credly&logoColor=white" alt="Verify GitHub Foundations" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="awaisstack/Badges/Databricks%20Lakehouse%20Fundamentals.png" width="70" alt="Databricks Lakehouse" /></td>
+      <td><b>Lakehouse Fundamentals</b></td>
+      <td>Databricks Academy</td>
+      <td align="center">Big Data & Lakehouse</td>
+      <td align="center"><a href="https://credentials.databricks.com/d64eb5b4-d4e8-48af-bb33-064376c28331#acc.MlvXdIQ4"><img src="https://img.shields.io/badge/Verify-Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Verify Databricks" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="awaisstack/Badges/DE_Associate_-_badge_with_outline.png" width="70" alt="DataCamp Data Engineer" /></td>
+      <td><b>Data Engineer Associate</b></td>
+      <td>DataCamp (DEA0013781242095)</td>
+      <td align="center">ETL & Data Engineering</td>
+      <td align="center"><a href="https://www.datacamp.com/certificate/DEA0013781242095"><img src="https://img.shields.io/badge/Verify-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Verify DataCamp DE" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="awaisstack/Badges/SQL_Associate_-_badge_with_outline.png" width="70" alt="DataCamp SQL Associate" /></td>
+      <td><b>SQL Associate</b></td>
+      <td>DataCamp (SQA0010604303256)</td>
+      <td align="center">SQL & Query Optimization</td>
+      <td align="center"><a href="https://www.datacamp.com/certificate/SQA0010604303256"><img src="https://img.shields.io/badge/Verify-DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Verify DataCamp SQL" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="70" alt="Stanford Section Leader" /></td>
+      <td><b>Code in Place Section Leader</b></td>
+      <td>Stanford University</td>
+      <td align="center">Leadership & Python Mentorship</td>
+      <td align="center"><a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U"><img src="https://img.shields.io/badge/Verify-Stanford-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Verify Stanford" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-PL--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="70" alt="Microsoft PL-300" /></td>
+      <td><b>Power BI Data Analyst Associate (PL-300)</b></td>
+      <td>Microsoft Certified</td>
+      <td align="center">Business Intelligence & DAX</td>
+      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8684/23662EAF6967EFAF?sharingId=D9AA7C71B1D56C32"><img src="https://img.shields.io/badge/Verify-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify PL-300" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-DP--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="70" alt="Microsoft DP-900" /></td>
+      <td><b>Azure Data Fundamentals (DP-900)</b></td>
+      <td>Microsoft Certified</td>
+      <td align="center">Cloud Databases & Analytics</td>
+      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8966/FF7EF73DA72314?sharingId"><img src="https://img.shields.io/badge/Verify-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify DP-900" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" width="70" alt="Microsoft AZ-900" /></td>
+      <td><b>Azure Fundamentals (AZ-900)</b></td>
+      <td>Microsoft Certified</td>
+      <td align="center">Cloud Infrastructure & Security</td>
+      <td align="center"><a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-9448/16470953F2E56510?sharingId"><img src="https://img.shields.io/badge/Verify-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify AZ-900" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Buildables-Fellowship-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" width="70" alt="Buildables Fellowship" /></td>
+      <td><b>Data Engineering Fellowship (3 Months)</b></td>
+      <td>Buildables</td>
+      <td align="center">Production ETL Pipelines</td>
+      <td align="center"><a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8"><img src="https://img.shields.io/badge/Verify-Certificate-FF6F00?style=for-the-badge&logo=certificate&logoColor=white" alt="Verify Buildables" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" width="70" alt="Harvard CS50x" /></td>
+      <td><b>3-Time CS50x Puzzle Day Winner (9/9 Score)</b></td>
+      <td>Harvard University (2024, 2025, 2026)</td>
+      <td align="center">Algorithmic Problem Solving</td>
+      <td align="center"><img src="https://img.shields.io/badge/Status-Perfect%20Score%20%E2%9C%85-brightgreen?style=for-the-badge" alt="Perfect Score" /></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# 🚀 Featured Engineering Projects & Milestones
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Zakat Blockchain System (IGNITE Funded)</h3>
+      <p>
+        An open-source decentralized Web 3.0 donation platform built with <b>Solidity</b> and <b>React.js</b> to eliminate intermediaries, enforce 100% donation traceability, and route aid directly to verified recipients.
+      </p>
+      <ul>
+        <li>🎖️ <b>Awarded IGNITE R&D Funding</b> by the Ministry of IT & Telecom (MoITT).</li>
+        <li>🥈 <b>2nd Place Winner</b> at NUML CS Open House.</li>
+        <li>🌟 <b>Nominee</b> for prestigious P@SHA ICT Awards.</li>
+      </ul>
+      <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv">
+        <img src="https://img.shields.io/badge/Read-IGNITE%20Funding%20Post-0077B5?style=flat-square&logo=linkedin" alt="IGNITE Post" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Production Mini-ETL Pipeline (MinIO + Airflow)</h3>
+      <p>
+        End-to-end automated ETL pipeline engineered during the Buildables Data Engineering Fellowship.
+      </p>
+      <ul>
+        <li>📥 <b>Extract:</b> Automated raw CSV ingest from MinIO S3-compatible object storage.</li>
+        <li>⚡ <b>Transform:</b> 40% execution speedup with Pandas vectorized batch transformations.</li>
+        <li>🗄️ <b>Load:</b> Structured production loading into PostgreSQL with Apache Airflow orchestration and automated CSV schema validation checks.</li>
+      </ul>
+      <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8">
+        <img src="https://img.shields.io/badge/View-Fellowship%20Credential-FF6F00?style=flat-square&logo=apacheairflow" alt="Fellowship Credential" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SafeShift AI (Google Antigravity Hackathon)</h3>
+      <p>
+        Ranked <b>6th nationally</b> out of 2,668 registered engineering teams and 605 submitted AI architectures at GDG Kolachi's AI Seekho Hackathon.
+      </p>
+      <ul>
+        <li>Cross-platform Flutter application for logistics cost estimation.</li>
+        <li>Autonomous multi-agent AI framework featuring computer-vision inventory tracking and tool calling.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Rank-6th%20%2F%202%2C668%20Teams-4285F4?style=flat-square&logo=google" alt="6th Place" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>💥 ImpactScope (NASA Space Apps Challenge 2025)</h3>
+      <p>
+        Interactive orbital physics and asteroid impact simulation platform powered by real NASA satellite data.
+      </p>
+      <ul>
+        <li>Fetches real-time asteroid telemetry from NASA's NeoWs API.</li>
+        <li>Applies authentic physics models for blast radius, shockwave, and crater calculations rendered dynamically with Three.js.</li>
+      </ul>
+      <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo" />
+      </a>
+      &nbsp;
+      <a href="https://lnkd.in/p/dfsVniYk">
+        <img src="https://img.shields.io/badge/LinkedIn-Demo%20Video-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# 🎓 Teaching, Leadership & Community Impact 🤝
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>🌲 Stanford University</h4>
+      <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="90" alt="Stanford Code in Place" /><br/>
+      <b>Section Leader (Code in Place)</b><br/>
+      Instructed global student cohorts in core Python logic, control structures, and computational thinking.
+      <br/><br/>
+      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U">
+        <img src="https://img.shields.io/badge/Stanford-Credential-8C1515?style=flat-square&logo=stanford" alt="Stanford Credential" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>📊 iCodeGuru SQL Instructor</h4>
+      <img src="https://img.shields.io/badge/SQL%20Instructor-40%2B%20Hours-0077B5?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
+      <b>Technical SQL Instructor (8 Weeks / 40+ Hrs)</b><br/>
+      Taught comprehensive SQL for Data Analysis & Engineering: CTEs, window functions, complex joins, and PostgreSQL query tuning.
+      <br/><br/>
+      <a href="https://lnkd.in/eKbB6gDi">
+        <img src="https://img.shields.io/badge/Watch-Recordings-FF0000?style=flat-square&logo=youtube" alt="Class Recordings" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_sql-dataanalysis-dataengineering-activity-7383604404693934080-iPGR">
+        <img src="https://img.shields.io/badge/Read-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>🌟 Microsoft Ambassador</h4>
+      <img src="https://img.shields.io/badge/Microsoft-Beta%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /><br/><br/>
+      <b>Beta Microsoft Learn Student Ambassador</b><br/>
+      Keynote speaker across 4 campus technology conferences: Azure Synapse, Cloud Roadmaps, Quantum Computing, and Microsoft Fabric.
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/awaisstack/">
+        <img src="https://img.shields.io/badge/Campus-Speaker-0078D4?style=flat-square&logo=microsoft" alt="MLSA Sessions" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+# ⚡ Typing Speed & Fun Metrics ⌨️
+
+<div align="center">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/awaisstack/recent-activity/images/" target="_blank">
+    <img src="awaisstack/Typing%20speed%20133%20WPM%20MonkeyType%20Screenshot%20I%20took.jfif" width="650" alt="133 WPM Monkeytype Speed" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  </a>
+</p>
+
+<p align="center">
+  🔥 <b>Peak Typing Speed:</b> <code>133 WPM</code> on Monkeytype &nbsp;|&nbsp; 🌍 <b>English Proficiency:</b> <code>IELTS Academic Band 8.0</code> &nbsp;|&nbsp; 🎥 <b>Freelance Video Editor:</b> <code>400+ Completed Projects (5.0★ Rating)</code>
+</p>
+
+</div>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+<div align="center">
+
+# 🐍 GitHub Contribution Graph & Activity
+
+![snake gif](https://raw.githubusercontent.com/awaisstack/awaisstack/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<!--x-axis divider-->
+<img src="horizontal-divider-gradient.gif" width="100%" />
+
+<h3 align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
+</h3>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/awaisstack" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20%40awaisstack%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20,25&height=100&section=footer" width="100%" />
+</h3>
