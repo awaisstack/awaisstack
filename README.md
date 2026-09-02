@@ -1,5 +1,7 @@
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20,25&text=Muhammad%20Awais%20%E2%9A%A1&fontSize=42&fontAlignY=38&desc=Data%20Engineer%20%7C%20Multi-Agent%20AI%20%7C%20Cloud%20%26%20Blockchain%20Architect&descAlignY=62&descSize=18&height=150&animation=twinkling&section=header" width="100%" />
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Muhammad%20Awais&desc=Data%20Engineer%20%7C%20Multi-Agent%20AI%20%7C%20Cloud%20%26%20Blockchain%20Architect&descAlignY=70&height=140&section=header)
+
 </h3>
 
 <h3 align="center">
@@ -110,19 +112,19 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 
 <p align="center">
   <a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile" target="_blank">
-    <img src="awaisstack/Badges/Github%20Foundations%20Badge.png" width="125" alt="GitHub Foundations Badge" title="GitHub Foundations Certified" style="margin: 10px; transition: transform 0.3s;" />
+    <img src="awaisstack/Badges/Github%20Foundations%20Badge.png" width="125" alt="GitHub Foundations Badge" title="GitHub Foundations Certified" style="margin: 10px;" />
   </a>
   <a href="https://credentials.databricks.com/d64eb5b4-d4e8-48af-bb33-064376c28331#acc.MlvXdIQ4" target="_blank">
-    <img src="awaisstack/Badges/Databricks%20Lakehouse%20Fundamentals.png" width="125" alt="Databricks Lakehouse Fundamentals" title="Databricks Lakehouse Fundamentals" style="margin: 10px; transition: transform 0.3s;" />
+    <img src="awaisstack/Badges/Databricks%20Lakehouse%20Fundamentals.png" width="125" alt="Databricks Lakehouse Fundamentals" title="Databricks Lakehouse Fundamentals" style="margin: 10px;" />
   </a>
   <a href="https://www.datacamp.com/certificate/DEA0013781242095" target="_blank">
-    <img src="awaisstack/Badges/DE_Associate_-_badge_with_outline.png" width="125" alt="DataCamp Data Engineer Associate" title="DataCamp Certified Data Engineer Associate" style="margin: 10px; transition: transform 0.3s;" />
+    <img src="awaisstack/Badges/DE_Associate_-_badge_with_outline.png" width="125" alt="DataCamp Data Engineer Associate" title="DataCamp Certified Data Engineer Associate" style="margin: 10px;" />
   </a>
   <a href="https://www.datacamp.com/certificate/SQA0010604303256" target="_blank">
-    <img src="awaisstack/Badges/SQL_Associate_-_badge_with_outline.png" width="125" alt="DataCamp SQL Associate" title="DataCamp Certified SQL Associate" style="margin: 10px; transition: transform 0.3s;" />
+    <img src="awaisstack/Badges/SQL_Associate_-_badge_with_outline.png" width="125" alt="DataCamp SQL Associate" title="DataCamp Certified SQL Associate" style="margin: 10px;" />
   </a>
   <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
-    <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="125" alt="Stanford Code in Place Section Leader" title="Stanford University Section Leader" style="margin: 10px; transition: transform 0.3s;" />
+    <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="125" alt="Stanford Code in Place Section Leader" title="Stanford University Section Leader" style="margin: 10px;" />
   </a>
 </p>
 
@@ -600,7 +602,9 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 <img src="horizontal-divider-gradient.gif" width="100%" />
 
 <h3 align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord" />
+  
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
+
 </h3>
 
 <br/>
@@ -614,5 +618,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 <br/>
 
 <h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20,25&height=100&section=footer" width="100%" />
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 </h3>
