@@ -399,10 +399,15 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 
 <br/>
 
-### 🌟 Leadership, National Grants & Community Certificates
+### 🌟 Hackathons, Leadership & National Grants
 
 <table width="100%">
   <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🏆 AI Seekho Hackathon 2026 — Regional Finalist</h4>
+      <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="380" alt="AI Seekho 2026 Regional Finalist" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" /><br/><br/>
+      <img src="https://img.shields.io/badge/Google%20Antigravity-Regional%20Finalist%20(6th%20Place)-4285F4?style=for-the-badge&logo=google" alt="AI Seekho Finalist" />
+    </td>
     <td width="50%" align="center" valign="top">
       <h4>💡 IGNITE National R&D Funding Selection (MoITT)</h4>
       <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv" target="_blank">
@@ -412,13 +417,13 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
         <img src="https://img.shields.io/badge/Read-Funding%20Announcement-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="IGNITE Announcement" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <h4>🌟 Microsoft Learn Student Ambassador (Beta Promotion)</h4>
       <img src="awaisstack/Microsoft%20Student%20Ambassador%20I%20was%20promoted%20to%20Beta%2C%20Beta%20Microsoft%20student%20ambassador%20certificate.jfif" width="380" alt="Beta MLSA Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" /><br/><br/>
       <img src="https://img.shields.io/badge/Microsoft-Beta%20Ambassador%20Promotion-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Beta MLSA" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <h4>🏥 MedoConnect Social Media Lead Internship</h4>
       <a href="https://www.linkedin.com/posts/awaisstack_digitalmarketing-medoconnect-telehealth-activity-7095713669413580800-KrZJ" target="_blank">
@@ -428,10 +433,19 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
         <img src="https://img.shields.io/badge/Read-Completion%20Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="MedoConnect Post" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <h4>🌐 IEEE Membership Certificate</h4>
       <img src="awaisstack/IEEE%20Membership%20Certificate.jfif" width="380" alt="IEEE Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" /><br/><br/>
       <img src="https://img.shields.io/badge/IEEE-Official%20Member-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Member" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>⚡ 133 WPM Speed Typing Benchmark</h4>
+      <a href="https://www.linkedin.com/in/awaisstack/recent-activity/images/" target="_blank">
+        <img src="awaisstack/Typing%20speed%20133%20WPM%20MonkeyType%20Screenshot%20I%20took.jfif" width="380" alt="Monkeytype Speed 133 WPM" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/Monkeytype-133%20WPM%20Peak-FFB703?style=for-the-badge&logo=monkeytype&logoColor=black" alt="133 WPM" />
     </td>
   </tr>
 </table>
