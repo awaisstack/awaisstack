@@ -340,6 +340,19 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
     <td width="50%" align="center" valign="top">
+      <h4>🚚 SafeShift AI (Google Antigravity Hackathon)</h4>
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="380" alt="SafeShift AI Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/Rank-6th%20Place%20(Islamabad%20Region)-4285F4?style=flat-square&logo=google" alt="6th Place" />
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW">
+        <img src="https://img.shields.io/badge/LinkedIn-Hackathon%20Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
       <h4>📈 DataFyno</h4>
       <a href="https://devpost.com/software/datafyno" target="_blank">
         <img src="awaisstack/Hackathon%20Thumbnails/Data%20Fyno.jpg" width="380" alt="Data Fyno" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
@@ -352,8 +365,6 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
         <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <h4>🎮 AlgoQuest</h4>
       <a href="https://devpost.com/software/algoquest-c9g8l6" target="_blank">
@@ -361,17 +372,6 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a><br/><br/>
       <a href="https://devpost.com/software/algoquest-c9g8l6">
         <img src="https://img.shields.io/badge/Devpost-Project-003B57?style=flat-square&logo=devpost" alt="Devpost Project" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🚚 SafeShift AI (Google Antigravity Hackathon)</h4>
-      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
-        <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="380" alt="SafeShift AI Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/Rank-6th%20Place%20(Islamabad%20Region)-4285F4?style=flat-square&logo=google" alt="6th Place" />
-      &nbsp;
-      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW">
-        <img src="https://img.shields.io/badge/LinkedIn-Hackathon%20Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
       </a>
     </td>
   </tr>
