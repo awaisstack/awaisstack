@@ -19,19 +19,25 @@
 <img src="horizontal-divider-gradient.gif" width="100%" />
 
 <p align="center">
+  <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
+    <img src="https://img.shields.io/badge/Stanford%20University-Code%20in%20Place%20Section%20Leader-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford Section Leader" />
+  </a>
+  <img src="https://img.shields.io/badge/Harvard%20CS50x-3x%20Winner%20(9%2F9)-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x 3x Winner" />
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8684/23662EAF6967EFAF?sharingId=D9AA7C71B1D56C32" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst%20(PL--300)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft PL-300" />
+  </a>
+  <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20Seekho-Regional%20Finalist%20(Top%206)-4285F4?style=for-the-badge&logo=google" alt="AI Seekho Finalist" />
+  </a>
+  <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv" target="_blank">
+    <img src="https://img.shields.io/badge/IGNITE%20MoITT-National%20Funding%20Awardee-008080?style=for-the-badge&logo=ethereum&logoColor=white" alt="IGNITE MoITT Awardee" />
+  </a>
   <a href="https://www.fiverr.com/freelancers/awaisstack" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-Top%20Rated%20Seller%20(400%2B%20Projects)-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Top Rated Seller" />
   </a>
   <img src="https://img.shields.io/badge/IELTS-Academic%20Band%208.0-002F6C?style=for-the-badge&logo=cambridge&logoColor=white" alt="IELTS Band 8.0" />
   <a href="https://www.linkedin.com/in/awaisstack/recent-activity/images/" target="_blank">
     <img src="https://img.shields.io/badge/Typing%20Speed-133%20WPM%20(Monkeytype)-FFB703?style=for-the-badge&logo=monkeytype&logoColor=black" alt="133 WPM Typing Speed" />
-  </a>
-  <img src="https://img.shields.io/badge/Harvard%20CS50x-3x%20Winner%20(9%2F9)-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x 3x Winner" />
-  <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv" target="_blank">
-    <img src="https://img.shields.io/badge/IGNITE%20MoITT-National%20Funding%20Awardee-008080?style=for-the-badge&logo=ethereum&logoColor=white" alt="IGNITE MoITT Awardee" />
-  </a>
-  <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
-    <img src="https://img.shields.io/badge/AI%20Seekho-Regional%20Finalist%20(Top%206)-4285F4?style=for-the-badge&logo=google" alt="AI Seekho Finalist" />
   </a>
 </p>
 
@@ -64,10 +70,12 @@ new Developer({
 ```cmd
 🚀 About Me:
 A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Science in Computer Science from NUML (GPA: 3.59/4.00).
+• 🎓 Stanford Code in Place Section Leader: Instructed global cohorts in Python computational thinking and core programming logic.
+• 🏆 Harvard CS50x Winner: 3-time winner (2024 & 2025) with a perfect 9/9 score.
+• 📊 Microsoft Certified: Power BI Data Analyst Associate (PL-300), Azure Data Fundamentals (DP-900), and Azure Fundamentals (AZ-900).
 • 💡 IGNITE National R&D Awardee: Secured competitive Ministry of IT and Telecom funding for Zakat Blockchain System (1,000+ applicants).
 • 🏆 Hackathon Champion: Placed 6th in Islamabad Region in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) & built ImpactScope for NASA Space Apps Challenge 2025.
 • 🏅 Top Data Engineering Fellow: Recognized among Top Fellows in Buildables DE Fellowship (Cohort 2025) — architected SynthCart Medallion Platform with Docker, Airflow, Spark & MinIO.
-• 🎓 Global Educator: Stanford Code in Place Section Leader, delivered 40+ hours of advanced SQL instruction, and organized 4 campus tech conferences as a Beta Microsoft Learn Student Ambassador.
 • ⚡ Proven Builder: Deployed enterprise ETL pipelines with MinIO, PostgreSQL, and Airflow; delivered 400+ client projects with a 5.0★ rating.
 ```
 
@@ -115,6 +123,9 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 <div align="center">
 
 <p align="center">
+  <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
+    <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="125" alt="Stanford Code in Place Section Leader" title="Stanford University Section Leader" style="margin: 10px;" />
+  </a>
   <a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile" target="_blank">
     <img src="awaisstack/Badges/Github%20Foundations%20Badge.png" width="125" alt="GitHub Foundations Badge" title="GitHub Foundations Certified" style="margin: 10px;" />
   </a>
@@ -126,9 +137,6 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
   </a>
   <a href="https://www.datacamp.com/certificate/SQA0010604303256" target="_blank">
     <img src="awaisstack/Badges/SQL_Associate_-_badge_with_outline.png" width="125" alt="DataCamp SQL Associate" title="DataCamp Certified SQL Associate" style="margin: 10px;" />
-  </a>
-  <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
-    <img src="awaisstack/Badges/Stanford%20Code%20in%20Place%20section%20leader%20.svg" width="125" alt="Stanford Code in Place Section Leader" title="Stanford University Section Leader" style="margin: 10px;" />
   </a>
 </p>
 
@@ -379,9 +387,30 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 ### 🎓 Professional Certifications & Accreditations
 
 <table width="100%">
+  <!-- Row 1: Stanford & Harvard -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>Microsoft Power BI Data Analyst (PL-300)</h4>
+      <h4>🌲 Stanford University Code in Place Section Leader</h4>
+      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
+        <img src="awaisstack/Certificates/Stanford%20Code%20in%20Place%20SectionLeader.png" width="380" alt="Stanford Section Leader Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U">
+        <img src="https://img.shields.io/badge/Verify-Stanford%20Credential-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Verify Stanford" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🏛️ Harvard CS50x Puzzle Day Winner (2024 & 2025)</h4>
+      <p align="center">
+        <img src="awaisstack/Certificates/Harvard%20CS50X%202024.jfif" width="185" alt="Harvard CS50x 2024" style="border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+        <img src="awaisstack/Certificates/Harvard%20CS50X%202025.jfif" width="185" alt="Harvard CS50x 2025" style="border-radius: 6px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </p>
+      <img src="https://img.shields.io/badge/Harvard%20CS50x-Perfect%209%2F9%20Score-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x" />
+    </td>
+  </tr>
+  <!-- Row 2: Microsoft PL-300 & DP-900 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>📊 Microsoft Power BI Data Analyst (PL-300)</h4>
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8684/23662EAF6967EFAF?sharingId=D9AA7C71B1D56C32" target="_blank">
         <img src="awaisstack/Professional%20Certifications/PL%20300.jfif" width="380" alt="PL 300 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -390,7 +419,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>Microsoft Azure Data Fundamentals (DP-900)</h4>
+      <h4>☁️ Microsoft Azure Data Fundamentals (DP-900)</h4>
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-8966/FF7EF73DA72314?sharingId" target="_blank">
         <img src="awaisstack/Professional%20Certifications/DP%20900.jfif" width="380" alt="DP 900 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -399,9 +428,10 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
   </tr>
+  <!-- Row 3: Microsoft AZ-900 & GitHub Foundations -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>Microsoft Azure Fundamentals (AZ-900)</h4>
+      <h4>🌐 Microsoft Azure Fundamentals (AZ-900)</h4>
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/MuhammadAwais-9448/16470953F2E56510?sharingId" target="_blank">
         <img src="awaisstack/Professional%20Certifications/AZ%20900.jfif" width="380" alt="AZ 900 Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -410,7 +440,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>GitHub Foundations Certified</h4>
+      <h4>🐙 GitHub Foundations Certified</h4>
       <a href="https://www.credly.com/badges/927044cc-38a7-421f-aeb3-b0137361f50e/linked_in_profile" target="_blank">
         <img src="awaisstack/Professional%20Certifications/Github%20Foundations%20Certificate.jfif" width="380" alt="GitHub Foundations Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -419,9 +449,10 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
   </tr>
+  <!-- Row 4: DataCamp DE & SQL -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>DataCamp Data Engineer Associate</h4>
+      <h4>📈 DataCamp Data Engineer Associate</h4>
       <a href="https://www.datacamp.com/certificate/DEA0013781242095" target="_blank">
         <img src="awaisstack/Professional%20Certifications/Data%20Engineer%20Associate%20Certificate.png" width="380" alt="DataCamp Data Engineer Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -430,7 +461,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>DataCamp SQL Associate</h4>
+      <h4>🗄️ DataCamp SQL Associate</h4>
       <a href="https://www.datacamp.com/certificate/SQA0010604303256" target="_blank">
         <img src="awaisstack/Professional%20Certifications/SQL%20Associate.png" width="380" alt="DataCamp SQL Associate Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -439,9 +470,10 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
   </tr>
+  <!-- Row 5: Databricks & Buildables -->
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>Databricks Lakehouse Fundamentals</h4>
+      <h4>⚡ Databricks Lakehouse Fundamentals</h4>
       <a href="https://credentials.databricks.com/d64eb5b4-d4e8-48af-bb33-064376c28331#acc.MlvXdIQ4" target="_blank">
         <img src="awaisstack/Professional%20Certifications/Databricks%20Lakehouse%20Fundamentals.jfif" width="380" alt="Databricks Lakehouse Fundamentals" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -450,18 +482,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
     <td width="50%" align="center" valign="top">
-      <h4>Stanford University Code in Place Section Leader</h4>
-      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U" target="_blank">
-        <img src="awaisstack/Certificates/Stanford%20Code%20in%20Place%20SectionLeader.png" width="380" alt="Stanford Section Leader Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
-      </a><br/><br/>
-      <a href="https://digitalcredential.stanford.edu/check/FC2508AADE1C99FAB49B1F976F4FAFA8C224B12F164E8904772E38DBDD49D32CVWlpNkl6VFAwT3pMU0JNcTY2eENNS05JWFZVaUhFK3JuYzhJNTNMR2pWVWVtOU1U">
-        <img src="https://img.shields.io/badge/Verify-Stanford%20Credential-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Verify Stanford" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>Buildables Data Engineering Fellowship (Top Fellow)</h4>
+      <h4>🏆 Buildables Data Engineering Fellowship (Top Fellow)</h4>
       <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8" target="_blank">
         <img src="awaisstack/Certificates/Data%20Engineering%20Fellowship%20buildables%20Completion%20certifcate.jfif" width="380" alt="Buildables Fellowship Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
@@ -472,14 +493,6 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       <a href="https://www.linkedin.com/posts/awaisstack_dataengineering-etl-python-activity-7406192122980122624-B39L">
         <img src="https://img.shields.io/badge/Read-Fellowship%20Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fellowship Post" />
       </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Harvard CS50x Puzzle Day Winner (2024 & 2025)</h4>
-      <p align="center">
-        <img src="awaisstack/Certificates/Harvard%20CS50X%202024.jfif" width="185" alt="Harvard CS50x 2024" style="border-radius: 6px;" />
-        <img src="awaisstack/Certificates/Harvard%20CS50X%202025.jfif" width="185" alt="Harvard CS50x 2025" style="border-radius: 6px;" />
-      </p>
-      <img src="https://img.shields.io/badge/Harvard%20CS50x-Perfect%209%2F9%20Score-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x" />
     </td>
   </tr>
 </table>
