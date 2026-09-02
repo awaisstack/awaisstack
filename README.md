@@ -30,6 +30,9 @@
   <a href="https://www.linkedin.com/posts/awaisstack_ignitefunding-blockchain-tech-activity-7238558010875277312-CJNv" target="_blank">
     <img src="https://img.shields.io/badge/IGNITE%20MoITT-National%20Funding%20Awardee-008080?style=for-the-badge&logo=ethereum&logoColor=white" alt="IGNITE MoITT Awardee" />
   </a>
+  <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
+    <img src="https://img.shields.io/badge/AI%20Seekho-Regional%20Finalist%20(Top%206)-4285F4?style=for-the-badge&logo=google" alt="AI Seekho Finalist" />
+  </a>
 </p>
 
 <img src="horizontal-divider-gradient.gif" width="100%" />
@@ -49,12 +52,12 @@ new Developer({
   email: "awaisstack@gmail.com",
   github: "https://github.com/awaisstack",
   passions: [
-    "Scalable ETL Pipelines", 
+    "Scalable ETL & Medallion Data Lakehouse", 
     "Multi-Agent Swarm Architectures", 
-    "Azure Databricks & Lakehouse", 
-    "Decentralized Web3 Applications"
+    "Azure Databricks & Cloud Synapse", 
+    "Decentralized Web3 & Solidity Protocols"
   ],
-  currentMission: "Engineering Autonomous Agentic Systems & Big Data Workflows 🚀"
+  currentMission: "Engineering Autonomous Agentic Systems & Big Data Platforms 🚀"
 }).introduce();
 ```
 
@@ -62,9 +65,10 @@ new Developer({
 🚀 About Me:
 A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Science in Computer Science from NUML (GPA: 3.59/4.00).
 • 💡 IGNITE National R&D Awardee: Secured competitive Ministry of IT and Telecom funding for Zakat Blockchain System (1,000+ applicants).
-• 🏆 Hackathon Champion: Placed 6th nationally in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) and built ImpactScope for NASA Space Apps Challenge 2025.
+• 🏆 Hackathon Champion: Placed 6th in Islamabad Region in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) & built ImpactScope for NASA Space Apps Challenge 2025.
+• 🏅 Top Data Engineering Fellow: Recognized among Top Fellows in Buildables DE Fellowship (Cohort 2025) — architected SynthCart Medallion Platform with Docker, Airflow, Spark & MinIO.
 • 🎓 Global Educator: Stanford Code in Place Section Leader, delivered 40+ hours of advanced SQL instruction, and organized 4 campus tech conferences as a Beta Microsoft Learn Student Ambassador.
-• ⚡ Proven Builder: Deployed production ETL pipelines with MinIO, PostgreSQL, and Airflow, delivered 400+ client projects with a 5.0★ rating.
+• ⚡ Proven Builder: Deployed enterprise ETL pipelines with MinIO, PostgreSQL, and Airflow; delivered 400+ client projects with a 5.0★ rating.
 ```
 
 <!--x-axis divider-->
@@ -139,7 +143,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
     <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20(AZ--900)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AZ-900" />
   </a>
   <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8" target="_blank">
-    <img src="https://img.shields.io/badge/Buildables-Data%20Engineering%20Fellowship-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Buildables Fellowship" />
+    <img src="https://img.shields.io/badge/Buildables-Top%20Data%20Engineering%20Fellow-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Buildables Top Fellow" />
   </a>
 </p>
 
@@ -249,42 +253,121 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 <p align="center">
   <b>🌍 ImpactScope: Real-Time Asteroid Impact Simulation Engine</b><br/>
   Built in 48 hours using NASA's Near-Earth Object (NeoWs) API, Python physics calculation models, Flask backend, and dynamic 3D Earth rendering in Three.js & Three-Globe.<br/>
-  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://lnkd.in/p/dfsVniYk"><b>[LinkedIn Post & Demo Video]</b></a>
+  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/posts/awaisstack_nasaspaceapps-hackathon-nasa-activity-7380955015881850880-UqFO"><b>[LinkedIn Post & Demo Video]</b></a>
 </p>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <a href="https://lablab.ai/ai-hackathons/deriv-ai-talent-sprint/enlighteners/deriv-p2p-sentinel-ai-fraud-detection-swarm" target="_blank">
-    <img src="awaisstack/Hackathon%20Thumbnails/Deriv%20AI%20Talent%20Sprint.avif" width="380" alt="Deriv P2P Sentinel AI" style="border-radius: 8px; margin: 6px;" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://lablab.ai/ai-hackathons/agentic-commerce-on-arc/enlighteners/arcwork-the-economic-os" target="_blank">
-    <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20Commerce%20of%20Arc.avif" width="380" alt="ArcWork: The Economic OS" style="border-radius: 8px; margin: 6px;" />
-  </a>
-  <br/>
-  <a href="https://lablab.ai/ai-hackathons/qubic-hack-the-future/enlighteners/aigarth-datalabel-feeless-ai-data-market" target="_blank">
-    <img src="awaisstack/Hackathon%20Thumbnails/Qubic%20-%20Hack%20the%20Future.avif" width="380" alt="Aigarth DataLabel" style="border-radius: 8px; margin: 6px;" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker" target="_blank">
-    <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20AI%20Hackathon%20with%20IBM%20watsonx%20Orchestrate.avif" width="380" alt="BlockchainSeeker" style="border-radius: 8px; margin: 6px;" />
-  </a>
-  <br/>
-  <a href="https://lablab.ai/ai-hackathons/internet-of-agents/mr-enlightener/coral-cfo-autonomous-subscription-audit-agent" target="_blank">
-    <img src="awaisstack/Hackathon%20Thumbnails/Internet%20of%20Agents.avif" width="380" alt="Coral CFO" style="border-radius: 8px; margin: 6px;" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://devpost.com/software/datafyno" target="_blank">
-    <img src="awaisstack/Hackathon%20Thumbnails/Data%20Fyno.jpg" width="380" alt="Data Fyno" style="border-radius: 8px; margin: 6px;" />
-  </a>
-  <br/>
-  <a href="https://devpost.com/software/algoquest-c9g8l6" target="_blank">
-    <img src="awaisstack/Hackathon%20Thumbnails/AlgoQuest.jpg" width="380" alt="AlgoQuest" style="border-radius: 8px; margin: 6px;" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🛡️ Deriv P2P Sentinel AI</h4>
+      <a href="https://lablab.ai/ai-hackathons/deriv-ai-talent-sprint/enlighteners/deriv-p2p-sentinel-ai-fraud-detection-swarm" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Deriv%20AI%20Talent%20Sprint.avif" width="380" alt="Deriv P2P Sentinel AI" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://lablab.ai/ai-hackathons/deriv-ai-talent-sprint/enlighteners/deriv-p2p-sentinel-ai-fraud-detection-swarm">
+        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_%F0%9D%90%85%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%9E-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4-%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AC-activity-7426354319609708544-8R4U">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>⚡ ArcWork: The Economic OS</h4>
+      <a href="https://lablab.ai/ai-hackathons/agentic-commerce-on-arc/enlighteners/arcwork-the-economic-os" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20Commerce%20of%20Arc.avif" width="380" alt="ArcWork: The Economic OS" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://lablab.ai/ai-hackathons/agentic-commerce-on-arc/enlighteners/arcwork-the-economic-os">
+        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_the-3t-freelance-market-is-stuck-in-the-activity-7421196931466674176-I2Km">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🔗 Aigarth DataLabel (Qubic Hack)</h4>
+      <a href="https://lablab.ai/ai-hackathons/qubic-hack-the-future/enlighteners/aigarth-datalabel-feeless-ai-data-market" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Qubic%20-%20Hack%20the%20Future.avif" width="380" alt="Aigarth DataLabel" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://lablab.ai/ai-hackathons/qubic-hack-the-future/enlighteners/aigarth-datalabel-feeless-ai-data-market">
+        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_qubic-hackathon-nextjs-activity-7403531983240331265-o9LV">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🤖 BlockchainSeeker (IBM watsonx)</h4>
+      <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20AI%20Hackathon%20with%20IBM%20watsonx%20Orchestrate.avif" width="380" alt="BlockchainSeeker" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker">
+        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_ibm-watsonx-agenticai-activity-7398705001012912128-WXCX">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>📊 Coral CFO (Autonomous Agent)</h4>
+      <a href="https://lablab.ai/ai-hackathons/internet-of-agents/mr-enlightener/coral-cfo-autonomous-subscription-audit-agent" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Internet%20of%20Agents.avif" width="380" alt="Coral CFO" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://lablab.ai/ai-hackathons/internet-of-agents/mr-enlightener/coral-cfo-autonomous-subscription-audit-agent">
+        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_internetofagents-coralprotocol-lablabai-activity-7375635593025900544-oo-q">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>📈 DataFyno</h4>
+      <a href="https://devpost.com/software/datafyno" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Data%20Fyno.jpg" width="380" alt="Data Fyno" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://devpost.com/software/datafyno">
+        <img src="https://img.shields.io/badge/Devpost-Project-003B57?style=flat-square&logo=devpost" alt="Devpost Project" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_introducing-%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%85%F0%9D%90%B2%F0%9D%90%A7%F0%9D%90%A8-a-simple-but-activity-7405013933947875329-DzXo">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🎮 AlgoQuest</h4>
+      <a href="https://devpost.com/software/algoquest-c9g8l6" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/AlgoQuest.jpg" width="380" alt="AlgoQuest" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://devpost.com/software/algoquest-c9g8l6">
+        <img src="https://img.shields.io/badge/Devpost-Project-003B57?style=flat-square&logo=devpost" alt="Devpost Project" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🚚 SafeShift AI (Google Antigravity Hackathon)</h4>
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="380" alt="SafeShift AI Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/Rank-6th%20Place%20(Islamabad%20Region)-4285F4?style=flat-square&logo=google" alt="6th Place" />
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW">
+        <img src="https://img.shields.io/badge/LinkedIn-Hackathon%20Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--x-axis divider-->
 <img src="horizontal-divider-gradient.gif" width="100%" />
@@ -378,12 +461,16 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <h4>Buildables Data Engineering Fellowship</h4>
+      <h4>Buildables Data Engineering Fellowship (Top Fellow)</h4>
       <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8" target="_blank">
         <img src="awaisstack/Certificates/Data%20Engineering%20Fellowship%20buildables%20Completion%20certifcate.jfif" width="380" alt="Buildables Fellowship Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
       </a><br/><br/>
       <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8">
         <img src="https://img.shields.io/badge/Verify-GiveMyCertificate-FF6F00?style=for-the-badge&logo=certificate&logoColor=white" alt="Verify Buildables" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_dataengineering-etl-python-activity-7406192122980122624-B39L">
+        <img src="https://img.shields.io/badge/Read-Fellowship%20Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fellowship Post" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
@@ -405,8 +492,12 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
   <tr>
     <td width="50%" align="center" valign="top">
       <h4>🏆 AI Seekho Hackathon 2026 — Regional Finalist</h4>
-      <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="380" alt="AI Seekho 2026 Regional Finalist" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" /><br/><br/>
-      <img src="https://img.shields.io/badge/Google%20Antigravity-Regional%20Finalist%20(6th%20Place)-4285F4?style=for-the-badge&logo=google" alt="AI Seekho Finalist" />
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="380" alt="AI Seekho 2026 Regional Finalist" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW">
+        <img src="https://img.shields.io/badge/Google%20Antigravity-Regional%20Finalist%20(6th%20Place)-4285F4?style=for-the-badge&logo=google" alt="AI Seekho Finalist" />
+      </a>
     </td>
     <td width="50%" align="center" valign="top">
       <h4>💡 IGNITE National R&D Funding Selection (MoITT)</h4>
@@ -465,7 +556,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
         An open-source decentralized Web 3.0 donation platform built with <b>Solidity</b> and <b>React.js</b> to eliminate intermediaries, enforce 100% donation traceability, and route aid directly to verified recipients.
       </p>
       <ul>
-        <li>🎖️ <b>Awarded IGNITE R&D Funding</b> by the Ministry of IT & Telecom (MoITT).</li>
+        <li>🎖️ <b>Awarded IGNITE R&D Funding</b> by the Ministry of IT & Telecom (MoITT) from 1,000+ national applications.</li>
         <li>🥈 <b>2nd Place Winner</b> at NUML CS Open House.</li>
         <li>🌟 <b>Nominee</b> for prestigious P@SHA ICT Awards.</li>
       </ul>
@@ -474,17 +565,21 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Production Mini-ETL Pipeline (MinIO + Airflow)</h3>
+      <h3>⚙️ SynthCart E-Commerce Platform & Medallion Pipeline</h3>
       <p>
-        End-to-end automated ETL pipeline engineered during the Buildables Data Engineering Fellowship.
+        Lead Infrastructure Engineer during the Buildables Data Engineering Fellowship (Cohort 2025).
       </p>
       <ul>
-        <li>📥 <b>Extract:</b> Automated raw CSV ingest from MinIO S3-compatible object storage.</li>
-        <li>⚡ <b>Transform:</b> 40% execution speedup with Pandas vectorized batch transformations.</li>
-        <li>🗄️ <b>Load:</b> Structured production loading into PostgreSQL with Apache Airflow orchestration and automated CSV schema validation checks.</li>
+        <li>🏗️ <b>Medallion Architecture:</b> Automated data flow from Bronze (Raw) → Silver (Cleaned) → Gold (Curated).</li>
+        <li>⚡ <b>Tech Stack:</b> Docker, Apache Airflow, Apache Spark, MinIO (S3), and PostgreSQL.</li>
+        <li>📦 <b>Repository:</b> <a href="https://github.com/awaisstack/buildables/tree/main">github.com/awaisstack/buildables</a></li>
       </ul>
-      <a href="https://certificate.givemycertificate.com/c/37d12f96-75a5-412a-b51b-655c0ec306e8">
-        <img src="https://img.shields.io/badge/View-Fellowship%20Credential-FF6F00?style=flat-square&logo=apacheairflow" alt="Fellowship Credential" />
+      <a href="https://github.com/awaisstack/buildables/tree/main">
+        <img src="https://img.shields.io/badge/GitHub-Buildables%20Repository-181717?style=flat-square&logo=github" alt="GitHub Repo" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_dataengineering-etl-python-activity-7406192122980122624-B39L">
+        <img src="https://img.shields.io/badge/LinkedIn-Fellowship%20Post-0077B5?style=flat-square&logo=linkedin" alt="Fellowship Post" />
       </a>
     </td>
   </tr>
@@ -492,12 +587,16 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
     <td width="50%" valign="top">
       <h3>🛡️ SafeShift AI (Google Antigravity Hackathon)</h3>
       <p>
-        Ranked <b>6th nationally</b> out of 2,668 registered engineering teams and 605 submitted AI architectures at GDG Kolachi's AI Seekho Hackathon.
+        Ranked <b>6th in Islamabad region</b> out of 2,668 registered engineering teams and 605 submitted AI architectures at GDG Kolachi's AI Seekho Hackathon.
       </p>
       <ul>
-        <li>Cross-platform Flutter application for logistics cost estimation.</li>
-        <li>Autonomous multi-agent AI framework featuring computer-vision inventory tracking and tool calling.</li>
+        <li>Cross-platform Flutter application solving moving & logistics pain points.</li>
+        <li>Autonomous multi-agent AI framework featuring computer-vision inventory tracking, cost estimation, and tool calling.</li>
       </ul>
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW">
+        <img src="https://img.shields.io/badge/LinkedIn-SafeShift%20AI%20Post-0077B5?style=flat-square&logo=linkedin" alt="SafeShift Post" />
+      </a>
+      &nbsp;
       <img src="https://img.shields.io/badge/Rank-6th%20%2F%202%2C668%20Teams-4285F4?style=flat-square&logo=google" alt="6th Place" />
     </td>
     <td width="50%" valign="top">
@@ -513,8 +612,8 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
         <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo" />
       </a>
       &nbsp;
-      <a href="https://lnkd.in/p/dfsVniYk">
-        <img src="https://img.shields.io/badge/LinkedIn-Demo%20Video-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Demo" />
+      <a href="https://www.linkedin.com/posts/awaisstack_nasaspaceapps-hackathon-nasa-activity-7380955015881850880-UqFO">
+        <img src="https://img.shields.io/badge/LinkedIn-Post%20%26%20Demo-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Demo" />
       </a>
     </td>
   </tr>
