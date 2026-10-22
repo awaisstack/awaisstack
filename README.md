@@ -68,15 +68,15 @@ new Developer({
 ```
 
 ```cmd
-🚀 About Me:
+About Me:
 A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Science in Computer Science from NUML (GPA: 3.59/4.00).
-• 🎓 Stanford Code in Place Section Leader: Instructed global cohorts in Python computational thinking and core programming logic.
-• 🏆 Harvard CS50x Winner: 3-time winner (2024 & 2025) with a perfect 9/9 score.
-• 📊 Microsoft Certified: Power BI Data Analyst Associate (PL-300), Azure Data Fundamentals (DP-900), and Azure Fundamentals (AZ-900).
-• 💡 IGNITE National R&D Awardee: Secured competitive Ministry of IT and Telecom funding for Zakat Blockchain System (1,000+ applicants).
-• 🏆 Hackathon Champion: Placed 6th in Islamabad Region in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) & built ImpactScope for NASA Space Apps Challenge 2025.
-• 🏅 Top Data Engineering Fellow: Recognized among Top Fellows in Buildables DE Fellowship (Cohort 2025) — architected SynthCart Medallion Platform with Docker, Airflow, Spark & MinIO.
-• ⚡ Proven Builder: Deployed enterprise ETL pipelines with MinIO, PostgreSQL, and Airflow; delivered 400+ client projects with a 5.0★ rating.
+• Stanford Code in Place Section Leader: Instructed global cohorts in Python computational thinking and core programming logic.
+• Harvard CS50x Winner: 3-time winner (2024 & 2025) with a perfect 9/9 score.
+• Microsoft Certified: Power BI Data Analyst Associate (PL-300), Azure Data Fundamentals (DP-900), and Azure Fundamentals (AZ-900).
+• IGNITE National R&D Awardee: Secured competitive Ministry of IT and Telecom funding for Zakat Blockchain System (1,000+ applicants).
+• Hackathon Champion: Placed 6th in Islamabad Region in GDG Kolachi's Google Antigravity Hackathon (out of 2,668 teams) & built ImpactScope for NASA Space Apps Challenge 2025.
+• Top Data Engineering Fellow: Recognized among Top Fellows in Buildables DE Fellowship (Cohort 2025) — architected SynthCart Medallion Platform with Docker, Airflow, Spark & MinIO.
+• Proven Builder: Deployed enterprise ETL pipelines with MinIO, PostgreSQL, and Airflow; delivered 400+ client projects with a 5.0★ rating.
 ```
 
 <!--x-axis divider-->
