@@ -259,9 +259,7 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
   </a>
 </p>
 <p align="center">
-  <b>🌍 ImpactScope: Real-Time Asteroid Impact Simulation Engine</b><br/>
-  Built in 48 hours using NASA's Near-Earth Object (NeoWs) API, Python physics calculation models, Flask backend, and dynamic 3D Earth rendering in Three.js & Three-Globe.<br/>
-  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/posts/awaisstack_nasaspaceapps-hackathon-nasa-activity-7380955015881850880-UqFO"><b>[LinkedIn Post & Demo Video]</b></a> &nbsp;|&nbsp; 🚀 <a href="https://asteroid-impact-simulator-bice.vercel.app/" target="_blank"><b>[Live Demo]</b></a><br/><br/>
+  <b>🌍 ImpactScope: Real-Time Asteroid Impact Simulation Engine</b><br/><br/>
   <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness">
     <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo" />
   </a>
