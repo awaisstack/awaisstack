@@ -261,7 +261,18 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 <p align="center">
   <b>🌍 ImpactScope: Real-Time Asteroid Impact Simulation Engine</b><br/>
   Built in 48 hours using NASA's Near-Earth Object (NeoWs) API, Python physics calculation models, Flask backend, and dynamic 3D Earth rendering in Three.js & Three-Globe.<br/>
-  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/posts/awaisstack_nasaspaceapps-hackathon-nasa-activity-7380955015881850880-UqFO"><b>[LinkedIn Post & Demo Video]</b></a>
+  🔗 <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness"><b>[GitHub Repository]</b></a> &nbsp;|&nbsp; 🔗 <a href="https://www.linkedin.com/posts/awaisstack_nasaspaceapps-hackathon-nasa-activity-7380955015881850880-UqFO"><b>[LinkedIn Post & Demo Video]</b></a> &nbsp;|&nbsp; 🚀 <a href="https://asteroid-impact-simulator-bice.vercel.app/" target="_blank"><b>[Live Demo]</b></a><br/><br/>
+  <a href="https://github.com/awaisstack/2025-NASA-Space-Apps-Challenge-Meteor-Madness">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/posts/awaisstack_nasaspaceapps-hackathon-nasa-activity-7380955015881850880-UqFO">
+    <img src="https://img.shields.io/badge/LinkedIn-Post%20%26%20Demo-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Demo" />
+  </a>
+  &nbsp;
+  <a href="https://asteroid-impact-simulator-bice.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
+  </a>
 </p>
 
 </div>
@@ -270,6 +281,23 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
 
 <table width="100%">
   <tr>
+    <td width="50%" align="center" valign="top">
+      <h4>🏛️ Focus (AMD Developer Hackathon: Act III)</h4>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7517635659415859200/" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/AMD%20Developer%20Hackathon.png" width="380" alt="Focus - AMD Developer Hackathon: Act III" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7517635659415859200/" target="_blank">
+        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7517635659415859200/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+      &nbsp;
+      <a href="https://focus-iota-two.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
+      </a>
+    </td>
     <td width="50%" align="center" valign="top">
       <h4>🛡️ Deriv P2P Sentinel AI</h4>
       <a href="https://lablab.ai/ai-hackathons/deriv-ai-talent-sprint/enlighteners/deriv-p2p-sentinel-ai-fraud-detection-swarm" target="_blank">
@@ -282,7 +310,13 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       <a href="https://www.linkedin.com/posts/awaisstack_%F0%9D%90%85%F0%9D%90%9A%F0%9D%90%A4%F0%9D%90%9E-%F0%9D%90%9B%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A4-%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%AD%F0%9D%90%AC-%F0%9D%90%9C%F0%9D%90%A8%F0%9D%90%AC-activity-7426354319609708544-8R4U">
         <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
       </a>
+      &nbsp;
+      <a href="https://hackderiv.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
+      </a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" align="center" valign="top">
       <h4>⚡ ArcWork: The Economic OS</h4>
       <a href="https://lablab.ai/ai-hackathons/agentic-commerce-on-arc/enlighteners/arcwork-the-economic-os" target="_blank">
@@ -294,6 +328,27 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       &nbsp;
       <a href="https://www.linkedin.com/posts/awaisstack_the-3t-freelance-market-is-stuck-in-the-activity-7421196931466674176-I2Km">
         <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+      &nbsp;
+      <a href="https://arcwork-peeg.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h4>🤖 BlockchainSeeker (IBM watsonx)</h4>
+      <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20AI%20Hackathon%20with%20IBM%20watsonx%20Orchestrate.avif" width="380" alt="BlockchainSeeker" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker">
+        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_ibm-watsonx-agenticai-activity-7398705001012912128-WXCX">
+        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      </a>
+      &nbsp;
+      <a href="https://blockchainseekers.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
       </a>
     </td>
   </tr>
@@ -310,22 +365,11 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       <a href="https://www.linkedin.com/posts/awaisstack_qubic-hackathon-nextjs-activity-7403531983240331265-o9LV">
         <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
       </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🤖 BlockchainSeeker (IBM watsonx)</h4>
-      <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker" target="_blank">
-        <img src="awaisstack/Hackathon%20Thumbnails/Agentic%20AI%20Hackathon%20with%20IBM%20watsonx%20Orchestrate.avif" width="380" alt="BlockchainSeeker" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
-      </a><br/><br/>
-      <a href="https://lablab.ai/ai-hackathons/agentic-ai-hackathon-ibm-watsonx-orchestrate/enlighteners/blockchainseeker">
-        <img src="https://img.shields.io/badge/Lablab-Submission-6C5CE7?style=flat-square&logo=lablab.ai" alt="LabLab Submission" />
-      </a>
       &nbsp;
-      <a href="https://www.linkedin.com/posts/awaisstack_ibm-watsonx-agenticai-activity-7398705001012912128-WXCX">
-        <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
+      <a href="https://aigarth-datalabel-hacks.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center" valign="top">
       <h4>📊 Coral CFO (Autonomous Agent)</h4>
       <a href="https://lablab.ai/ai-hackathons/internet-of-agents/mr-enlightener/coral-cfo-autonomous-subscription-audit-agent" target="_blank">
@@ -337,17 +381,6 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       &nbsp;
       <a href="https://www.linkedin.com/posts/awaisstack_internetofagents-coralprotocol-lablabai-activity-7375635593025900544-oo-q">
         <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🚚 SafeShift AI (Google Antigravity Hackathon)</h4>
-      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
-        <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="380" alt="SafeShift AI Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/Rank-6th%20Place%20(Islamabad%20Region)-4285F4?style=flat-square&logo=google" alt="6th Place" />
-      &nbsp;
-      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW">
-        <img src="https://img.shields.io/badge/LinkedIn-Hackathon%20Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
       </a>
     </td>
   </tr>
@@ -364,6 +397,10 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       <a href="https://www.linkedin.com/posts/awaisstack_introducing-%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%85%F0%9D%90%B2%F0%9D%90%A7%F0%9D%90%A8-a-simple-but-activity-7405013933947875329-DzXo">
         <img src="https://img.shields.io/badge/LinkedIn-Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
       </a>
+      &nbsp;
+      <a href="https://datafynos.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
+      </a>
     </td>
     <td width="50%" align="center" valign="top">
       <h4>🎮 AlgoQuest</h4>
@@ -372,6 +409,23 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       </a><br/><br/>
       <a href="https://devpost.com/software/algoquest-c9g8l6">
         <img src="https://img.shields.io/badge/Devpost-Project-003B57?style=flat-square&logo=devpost" alt="Devpost Project" />
+      </a>
+      &nbsp;
+      <a href="https://algoquestdep.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h4>🚚 SafeShift AI (Google Antigravity Hackathon)</h4>
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW" target="_blank">
+        <img src="awaisstack/Hackathon%20Thumbnails/Copy%20of%20AI%20Seekho%202026%20Certificate%20-%20Regional%20Finalist%20.jpg" width="420" alt="SafeShift AI Certificate" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      </a><br/><br/>
+      <img src="https://img.shields.io/badge/Rank-6th%20Place%20(Islamabad%20Region)-4285F4?style=flat-square&logo=google" alt="6th Place" />
+      &nbsp;
+      <a href="https://www.linkedin.com/posts/awaisstack_safeshift-ai-activity-7468980018262667264-JHwW">
+        <img src="https://img.shields.io/badge/LinkedIn-Hackathon%20Post-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Post" />
       </a>
     </td>
   </tr>
@@ -625,6 +679,10 @@ A high-velocity Data Engineer and AI Systems Developer with a Bachelor of Scienc
       &nbsp;
       <a href="https://www.linkedin.com/posts/awaisstack_nasaspaceapps-hackathon-nasa-activity-7380955015881850880-UqFO">
         <img src="https://img.shields.io/badge/LinkedIn-Post%20%26%20Demo-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Demo" />
+      </a>
+      &nbsp;
+      <a href="https://asteroid-impact-simulator-bice.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-Demo-00C781?style=flat-square&logo=vercel" alt="Live Demo" />
       </a>
     </td>
   </tr>
